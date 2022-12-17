@@ -1,0 +1,41 @@
+@font-face{
+	font-family: calibri;
+	src: url(../font/Calibri.ttf);
+}
+input{
+	border: 2px solid black;
+	padding: 10px 10px;
+	text-align: center;
+}
+.img{
+	margin-top: 70px;
+}
+#inside{
+	text-align: center;
+}
+.size{
+	margin-right: 20px;
+	margin-left: 20px;
+}
+.button{
+	padding: 10px 35px 10px 35px;
+	background-color: #15A4E6;
+	margin-bottom: 20px;
+}
+.button:hover{
+	background-color: #45A5F5;
+}
+.font{
+	font-family: calibri;
+	color: blue;
+}
+#left{
+	float: left;
+}
+#right{
+	float: right;
+}
+
+
+
+
